@@ -14,4 +14,14 @@ else:
     print("a is smaller than 10") # 3- Instruction to execute if False. This part is not necessary.
 
 
-# Exercise: write some code to test whether a is odd or even.
+# Exercise: write some code to test whether a number is odd or even.
+
+
+# Extras:
+# - try to nest if statements (one within the other).
+# - try to have more complex conditions. For example: a > 3 and a < 10
+# - elif
+
+# Extra exercise:
+# The user inserts a number between 0 and 50 and you tell them in what range the number is.
+# For example, the user inserts 36, and the program says: "your number is between 30 and 40".
