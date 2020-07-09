@@ -6,7 +6,7 @@ def draw_spiral(sides):
         forward(i * side_length) # Move forward.
         right(90)                # Rotate 90 degrees to the right. 
 
-color('green')
+color("green")
 width(3)
 
 draw_spiral(40)

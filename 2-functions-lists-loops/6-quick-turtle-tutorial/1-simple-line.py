@@ -12,7 +12,7 @@
 
 from turtle import * # Import the library, now we can use all the turtle functions.
 
-color('red') # Select the color for your turtle.
+color("red") # Select the color for your turtle.
 width(3)     # Decide how wide the pen is.
 forward(100) # Move the turtle 100 steps forward.
 

@@ -16,7 +16,7 @@ def draw_cheessboard(rows, cols, square_size):
             move_to(r*square_size, c*square_size)
             draw_square(square_size)
 
-color('green')
+color("green")
 width(3)
 
 draw_cheessboard(5, 5, 100)
