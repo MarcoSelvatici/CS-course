@@ -22,7 +22,7 @@ print("\n<<2>>")
 # Or you can access specific elements of a list.
 a = list2[0]
 b = list2[1]
-# c = list1[2] # Gives an error!
+# c = list2[2] # Gives an error!
 print(a)
 print(b)
 
