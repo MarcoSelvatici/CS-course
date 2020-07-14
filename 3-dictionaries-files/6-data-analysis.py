@@ -48,7 +48,7 @@ print(count_females("data/yob1880.txt"))
 #             The dictionary key is the the year, the value is the name.
 #             For example: {1880: "Mary", 1881: "Mary", ..., 2018: "Emma"}
 
-#5- Exercise: write a function that sums all of the occurrences in a file.
+#6- Exercise: write a function that sums all of the name occurrences in a file.
 
 #7- Exercise: write a function that calculates what year had the highest number of total occurrences.
 
