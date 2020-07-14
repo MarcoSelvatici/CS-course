@@ -65,12 +65,13 @@ print(f"{full_january_name} has {number_of_days_in_january} days")
 months_with_31_days = length_to_months[31]
 print(f"Months that have 31 days: {months_with_31_days}")
 
+# print(months_full_names["hello"]) # Gives error, key does not exist!
 
 
 #1- Exercise: create a dictionary to represent your grades (pagella). You can invent the grades.
 #             For example: math:8, italian:7, ....
 
-#2- Exercise: change the value of italian to 9.
+#2- Exercise: change the value of italian (or any other subject) to 9.
 
 #3- Exercise: print the sum of the grades for math and italian.
 
