@@ -29,7 +29,7 @@ def split_line(line):
     tmp[2] = int(tmp[2]) # Convert the number of occurrences to an int.
     return tmp
 
-print( split_line("Anna,F,2604") )
+print( split_line("Anna,F,2604") ) # ["Anna", "F", 2604]
 
 #2- Exercise: write a function that counts how many female names are there in a file.
 
