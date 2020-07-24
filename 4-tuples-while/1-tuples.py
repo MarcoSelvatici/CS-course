@@ -16,3 +16,23 @@ print(len(my_tuple))
 
 # Tuples are usually used with different data types, like a number with a string and a bool.
 # Lists are usually contain a single data type (for example, a list of strings).
+
+# Tuples have a very useful feature: they can be nicely unpacked!
+
+tup0, tup1, tup2 = (1, "hello", True)
+print(tup0) # 1
+print(tup1) # "hello"
+print(tup2) # True
+print(my_tuple)
+
+# In the code above, Python understands that you want to assign the value of the first
+# element of the tuple to tup0, the second element to tup1 and the third element to tup2.
+
+# Tuples are often useful to return multiple values from a function.
+
+def my_fun():
+    return 1, "hello"
+
+int_val, string_val = my_fun()
+print(int_val)    # 1
+print(string_val) # "hello"
