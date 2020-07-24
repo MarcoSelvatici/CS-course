@@ -1,1 +1,1 @@
-# Write here your hangman code!S
+# Write here your hangman code!
