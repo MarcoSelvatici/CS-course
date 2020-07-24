@@ -3,5 +3,7 @@ tris.py
 turtle_.py
 hangman.py
 words.txt
+!5-hangman/words.txt
+!5-hangman/hangman.py
 
 .vscode

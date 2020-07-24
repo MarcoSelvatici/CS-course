@@ -15,3 +15,5 @@ def is_valid_input(inp):
 inp = ""
 while not is_valid_input(inp):
     inp = input("type a or b: ")
+
+#1- Exercise: change the is_valid_input function to make sure the user enters a letter between "a" and "z".
