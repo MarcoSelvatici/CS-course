@@ -7,3 +7,4 @@ words.txt
 !5-hangman/hangman.py
 
 .vscode
+__pycache__
